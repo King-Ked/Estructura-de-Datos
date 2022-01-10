@@ -1,0 +1,7 @@
+Abrir terminal en la carpeta donde se encuentra el programa y compilar con el siguiente comando:
+	
+	gcc -o Complejo Complejo.c mainComplejo.c
+
+Ya que se halla compilado ejecutar el programa con el siguiente comando:
+
+	./Complejo
